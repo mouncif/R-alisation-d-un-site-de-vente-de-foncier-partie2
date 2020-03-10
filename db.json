@@ -119,6 +119,21 @@
       "prix": "166",
       "etat": false,
       "date": 1581584953733
+    },
+    {
+      "id": 11,
+      "title": "vente foncier n ",
+      "nom": "soumia",
+      "email": "soumia@gmail.com",
+      "telephone": "0777777777777",
+      "surface": "152",
+      "choix": "false",
+      "adresse": "benimellel",
+      "detail": "detail",
+      "image_url": "C:\\fakepath\\land12.png",
+      "prix": "2000",
+      "etat": false,
+      "date": 1582187656870
     }
   ],
   "articles": [
@@ -474,6 +489,13 @@
       "LastName": "elhali",
       "email": "soumia@gmail.com",
       "password": "123"
+    },
+    {
+      "id": 42,
+      "FirstName": "soumia",
+      "LastName": "elhali",
+      "email": "soumiaelhali@gmail.com",
+      "password": "123456789"
     }
   ]
 }

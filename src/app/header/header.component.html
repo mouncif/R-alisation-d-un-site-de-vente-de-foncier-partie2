@@ -21,7 +21,9 @@
                             <a *ngIf="authStore.isAuthenticated"  class="fh5co-sub-ddown">Espace utilisateur</a>
                             <ul class="fh5co-sub-menu" *ngIf="authStore.isAuthenticated">
                                 <li><a href="#" data-toggle="modal" data-target="#profilmodal">Mon compte</a></li>
+                                <li><a>Mes favoris</a></li>
                                 <li><a (click)="disconnect()">Deconnexion</a></li>
+
                             </ul>                 
                         
                     </li>
